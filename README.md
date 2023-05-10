@@ -1,1 +1,9 @@
-# .github
+- 👋 Hi, developers
+- 👀 What are you interested in ...
+- 🌱 What are you currently learning ...
+- 📫 How Blalala ...
+
+<!---
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
